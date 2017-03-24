@@ -19,7 +19,7 @@ import javax.xml.bind.Marshaller.Listener;
 
 /**
  *
- * @author lucas
+ * @author lucasnnn 
  */
 public class ListenerTCP extends Thread{
     Socket s = null;
