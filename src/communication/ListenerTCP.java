@@ -17,10 +17,8 @@ import javax.xml.bind.Marshaller.Listener;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author lucas
- */
+
+
 public class ListenerTCP extends Thread{
     Socket s = null;
     
